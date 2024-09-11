@@ -1,5 +1,5 @@
  // date Mon, Sep  9, 2024 12:27:10 AM 
- // created by nishant 
+ // made by nishant 
 #include<stdio.h>
 int main(){
     int sum=0,num;
